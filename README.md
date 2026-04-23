@@ -1,5 +1,5 @@
-# My-_portfolio
-# 🌟 [Project Name]
+
+# 🌟 [MY PORTFOLIO]
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](YOUR_HOSTED_LINK_HERE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
